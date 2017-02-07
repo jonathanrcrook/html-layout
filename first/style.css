@@ -1,0 +1,31 @@
+body {
+  height: 100%;
+}
+
+header {
+  background-color: #3C3C3C;
+  height: 100px;
+}
+
+.content {
+  height: 500px;
+}
+
+footer {
+  background-color: #3C3C3C;
+  bottom: 0;
+  height: 100px;
+}
+
+main {
+  float: left;
+  width: 80%;
+  height: 100%;
+}
+
+aside {
+  background-color: #C9C9C9;
+  width: 10%;
+  float: left;
+  height: 600px;
+}

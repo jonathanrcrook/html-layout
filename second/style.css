@@ -1,0 +1,48 @@
+div {
+  color: white;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
+.first {
+background-color: #4A90E2;
+width: 33%;
+height: 600px;
+float: left;
+margin-top: 60px;
+}
+
+.second {
+  background-color: #50E3C2;
+  width: 33%;
+  float: left;
+  height: 600px;
+  margin-top: 60px;
+
+}
+
+.third {
+  float: left;
+  width: 33%;
+  height: 600px;
+  margin-top: 60px;
+
+
+}
+
+.content {
+  background-color: #B8E986;
+  height: 480px;
+
+}
+
+.content2 {
+  background-color: #D0021B;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+}
